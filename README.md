@@ -1,7 +1,17 @@
 ### Hi there 👋
 
       
- ![image](https://github.com/Ismaelhrsilva/Ismaelhrsilva/assets/46013667/c3b76002-175a-4576-b29b-2ee37cd618f9)
+
+![image](https://github.com/Ismaelhrsilva/Ismaelhrsilva/assets/46013667/aa49e813-648e-42a4-8bec-8167a8238904)
+
+![image](https://github.com/Ismaelhrsilva/Ismaelhrsilva/assets/46013667/cc9af0f9-8846-4841-a627-c9f8ea4c0a12)
+
+![image](https://github.com/Ismaelhrsilva/Ismaelhrsilva/assets/46013667/ee8c407d-2abb-4180-8179-f6fc0c47b15d)
+
+![image](https://github.com/Ismaelhrsilva/Ismaelhrsilva/assets/46013667/ee510820-4dbd-4f40-84f2-be6fc1191a1a)
+
+![image](https://github.com/Ismaelhrsilva/Ismaelhrsilva/assets/46013667/004aaebd-b5bf-4a5d-8d65-c7068eef8605)
+
 
 
 <!--
