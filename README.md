@@ -4,7 +4,7 @@
 
 ## Stats
 
-> These are my stats on github.
+> These are my stats on Github.
 
 <a href="https://github.com/Ismaelhrsilva">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ismaelhrsilva&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
@@ -12,4 +12,4 @@
 </a>
 
 ![](https://img.shields.io/badge/You've_been_spotted!-white?logoColor=black&style=for-the-badge)
-![](https://komarev.com/ghpvc/?username=rgrmra&color=blue&style=for-the-badge&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=Ismaelhrsilva&color=blue&style=for-the-badge&abbreviated=true)
